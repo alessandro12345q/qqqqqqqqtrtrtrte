@@ -1,0 +1,11 @@
+Model Information:
+* title:	Equestrian statue of Vercingetorix. Bartholdi
+* source:	https://sketchfab.com/3d-models/equestrian-statue-of-vercingetorix-bartholdi-18ff0691cb15495787e81cafc6f06092
+* author:	Moshe Caine (https://sketchfab.com/mosheca)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Equestrian statue of Vercingetorix. Bartholdi" (https://sketchfab.com/3d-models/equestrian-statue-of-vercingetorix-bartholdi-18ff0691cb15495787e81cafc6f06092) by Moshe Caine (https://sketchfab.com/mosheca) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
